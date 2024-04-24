@@ -1,5 +1,5 @@
 # Rakotoarison-Niaina-Gilbert
-    ////////////////////////////////////////////////////Installation manuelle d’un paquet à partir du fichier source////////////////////////////////////////////////////////////
+    //////////////////////////////////////////Installation manuelle d’un paquet à partir du fichier source////////////////////////////////////////////////////////////
     Remarque: pour l’installation des dépendances si on l’a installé à partir d’un fichier source les etapes sont à peu près comme ça sauf pour des cas exceptionnel :
 	  1_extraction du fichier source
 		  -si c’est un fichier d’extension « .tar.gz » la commande est : « tar xzvf source.tar.gz »
@@ -7,7 +7,7 @@
 	  2_cd source
 	  3_make
 	  4_sudo make install
-    ---------------------------------------------------------------------------------PHP--------------------------------------------------------------------------------------------
+    -------------------------------------------------PHP--------------------------------------------------------------------------------------------
     télécharger le fichier source sur le site officielle de apache : « https://www.php.net/downloads.php » puis téléchargez le fichier
     pour ma part j’ai pris le fichier d’extension « php-8.2.18.tar.gz » mais peu importe l’extension du fichier du moment que c’est le fichier source. 
     Remarque: pour l’ installation, des dépendances sont requises c’est pourquoi j’ai telecharge les de dépendances tels que :
@@ -25,7 +25,7 @@
      $ sudo make install
     conclusion : ça y est php est installé.
 
-    --------------------------------------------------------------------------------------Apache---------------------------------------------------------------------------------
+    --------------------------------------------------------------Apache---------------------------------------------------------------------------------
     télécharger le fichier source sur le site officielle de apache : « https://httpd.apache.org  » puis téléchargez le fichier
     pour ma part j’ai pris le fichier d’extension « httpd-2.4.59.tar.gz » mais peu importe l’extension du fichier du moment que c’est le fichier source. 
     Remarque : pour son installation des dépendances sont requis c’est pourquoi j’ai téléchargé les dépendances tels que :
